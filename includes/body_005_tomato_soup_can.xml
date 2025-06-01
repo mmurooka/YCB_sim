@@ -7,5 +7,5 @@
 ====================================================== -©vk©-->
 <mujocoinclude>
     <geom class="ycb_viz" mesh="005_tomato_soup_can" pos="0.01 -.084 -.002" material="005_tomato_soup_can"/>
-    <geom class="ycb_col" type="cylinder" size=".033 .05" pos="0 0 .05" mass="0.349"/>
+    <geom class="ycb_col" type="box" mesh="005_tomato_soup_can" pos="0.01 -.084 -.002" mass="0.349"/>
 </mujocoinclude>

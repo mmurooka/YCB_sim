@@ -7,5 +7,5 @@
 ====================================================== -©vk©-->
 <mujocoinclude>
     <geom class="ycb_viz" mesh="035_power_drill" pos="0.014 0.014 0.002" material="035_power_drill"/>
-    <geom class="ycb_col" type="mesh" mesh="035_power_drill" size=".1 .1" pos="0.014 0.014 0.002" mass="0.895"/>
+    <geom class="ycb_col" type="mesh" mesh="035_power_drill" pos="0.014 0.014 0.002" mass="0.895"/>
 </mujocoinclude>

@@ -7,7 +7,7 @@
 ====================================================== -©vk©-->
 <mujocoinclude>
     <asset>
-        <mesh name="008_pudding_box" file="../../../../../../third_party/YCB_sim/meshes/008_pudding_box.msh" scale="1 1 1"/>
+        <mesh name="008_pudding_box" file="../../../../../../third_party/YCB_sim/meshes/008_pudding_box.msh" scale="0.7 0.7 0.7"/>
         <texture name="008_pudding_box" type="2d" file="../../../../../../third_party/YCB_sim/textures/008_pudding_box.png"/>
         <material name="008_pudding_box" texture="008_pudding_box"/>
     </asset>

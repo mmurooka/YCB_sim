@@ -7,5 +7,5 @@
 ====================================================== -©vk©-->
 <mujocoinclude>
     <geom class="ycb_viz" mesh="007_tuna_fish_can" pos="0.026 0.022 0.002" material="007_tuna_fish_can"/>
-    <geom class="ycb_col" type="cylinder" size=".042 .016" pos="0 0 0.016" mass="0.171"/>
+    <geom class="ycb_col" type="box" mesh="007_tuna_fish_can" pos="0.026 0.022 0.002" mass="0.171"/>
 </mujocoinclude>

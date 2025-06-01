@@ -7,5 +7,5 @@
 ====================================================== -©vk©-->
 <mujocoinclude>
     <geom class="ycb_viz" mesh="008_pudding_box" pos="0.016 -.01 0.0" euler="-.04 0 1.09" material="008_pudding_box"/>
-    <geom class="ycb_col" type="box" size=".045 .055 .018" pos="0 0 .018" mass="0.187"/>
+    <geom class="ycb_col" type="box" mesh="008_pudding_box" pos="0.016 -.01 0.0" euler="-.04 0 1.09" mass="0.187"/>
 </mujocoinclude>

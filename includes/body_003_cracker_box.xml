@@ -7,5 +7,5 @@
 ====================================================== -©vk©-->
 <mujocoinclude>
     <geom class="ycb_viz" mesh="003_cracker_box" pos="0.014 0.014 0.002" material="003_cracker_box"/>
-    <geom class="ycb_col" type="box" size=".033 .08 .105" pos="0 0 .105" mass="0.453"/>
+    <geom class="ycb_col" type="box" mesh="003_cracker_box" pos="0.014 0.014 0.002" mass="0.453"/>
 </mujocoinclude>

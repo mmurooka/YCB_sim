@@ -7,7 +7,7 @@
 ====================================================== -©vk©-->
 <mujocoinclude>
     <asset>
-        <mesh name="002_master_chef_can" file="../../../../../../third_party/YCB_sim/meshes/002_master_chef_can.msh" scale="1 1 1"/>
+        <mesh name="002_master_chef_can" file="../../../../../../third_party/YCB_sim/meshes/002_master_chef_can.msh" scale="0.6 0.6 0.6"/>
         <texture name="002_master_chef_can" type="2d" file="../../../../../../third_party/YCB_sim/textures/002_master_chef_can.png"/>
         <material name="002_master_chef_can" texture="002_master_chef_can"/>
     </asset>
